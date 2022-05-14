@@ -71,3 +71,8 @@ Modifique este archivo para incluir diferentes rutas, para esto cree una funció
 **División**
 
 ![route-division](images/route-division.PNG)
+
+La forma correcta de hacer esto es usando controladores, podemos crear controladores de manera sencilla desde la ventana de comandos
+con la instrucción 'php artisan make:controller BasicMathController'
+
+![controller-math](images/controller-math.PNG)
