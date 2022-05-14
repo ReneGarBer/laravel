@@ -96,4 +96,4 @@ La extensión '.blade' en nuestros archivos '.php' permite usar una sintaxis que
 
 **Multiplicación y División**
 
-![views-suma-resta](images/views-suma-resta.PNG)
+![views-multiplicacion-division-fix](images/views-multiplicacion-division-fix.PNG)
