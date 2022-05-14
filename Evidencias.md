@@ -30,3 +30,7 @@ Para ver la ubicación puede usar el comando php --ini
 Una vez abiero el archivo debe revisar que la linea extension=fileinfo no esté comentada, no tenga ';'.
 
 ![php-fix](images/laravel-fix.PNG)
+
+Después de esto deberíamos poder construir nuestra aplicación sin problemas
+
+![app-ready](images/app-ready.PNG)
