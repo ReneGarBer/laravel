@@ -79,4 +79,4 @@ con la instrucción 'php artisan make:controller BasicMathController'
 
 Esto puede simplificarse usando la función group
 
-![controller-group](images/controller-group.PNG)
+![controller-group](images/controller-group-fix.PNG)
