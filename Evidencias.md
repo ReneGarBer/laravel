@@ -56,3 +56,18 @@ Modifique este archivo para incluir diferentes rutas, para esto cree una funció
 
 ![route-basicMath](images/route-basicMath.PNG)
 
+**Suma**
+
+![route-suma](images/route-suma.PNG)
+
+**Resta**
+
+![route-resta](images/route-resta.PNG)
+
+**Multiplicación**
+
+![route-multiplicacion](images/route-multiplicacion.PNG)
+
+**División**
+
+![route-division](images/route-division.PNG)
