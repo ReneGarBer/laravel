@@ -97,3 +97,10 @@ La extensión '.blade' en nuestros archivos '.php' permite usar una sintaxis que
 **Multiplicación y División**
 
 ![views-multiplicacion-division-fix](images/views-multiplicacion-division-fix.PNG)
+
+Estos archivos contiene solo las carácterísticas que los hacen únicos, aquellas elementos y atributos que todos comparten se encuentran en
+el archivo Math.blade.php' que funciona como un tamplate para nuestas vistas.
+
+**Math.blade.php**
+
+![views-layout](images/views-layout.PNG)
