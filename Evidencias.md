@@ -80,3 +80,20 @@ con la instrucción 'php artisan make:controller BasicMathController'
 Esto puede simplificarse usando la función group
 
 ![controller-group](images/controller-group-fix.PNG)
+
+## Vistas y Blade
+
+El propósito de los controladores es dirigir al usuario a las vistas que conforman nuestra pagina web,
+para lograr esto debemos primero crear las vistas en la carpeta 'resources\views' aqui crearemos una carpeta basicMath
+dentro de esta crearemos los archivos 'suma.blade.php','resta.blade.php','multiplicacion.blade.php','division.blade.php'.
+Tambien crearemos una carpeta 'layouts' en la dirección 'resources\views' y dentro crearemos el archivo 'Math.blade.php'
+
+La extensión '.blade' en nuestros archivos '.php' permite usar una sintaxis que reduce el código php que usamos dentro del codigo html
+
+**Suma y Resta**
+
+![views-suma-resta](images/views-suma-resta.PNG)
+
+**Multiplicación y División**
+
+![views-suma-resta](images/views-suma-resta.PNG)
