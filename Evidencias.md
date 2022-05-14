@@ -34,3 +34,7 @@ Una vez abiero el archivo debe revisar que la linea extension=fileinfo no esté 
 Después de esto deberíamos poder construir nuestra aplicación sin problemas
 
 ![app-ready](images/app-ready.PNG)
+
+Podemos ver los archivos creados desde el browser, para eso debemos iniciar Apache en xampp
+
+![localhost-blog](images/localhost-blog.PNG)
