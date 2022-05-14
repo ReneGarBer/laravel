@@ -50,7 +50,7 @@ Las rutas nos permiten mantener partes de nuestra aplicación fuera del alcance 
 
 el archivo web.php contiene una ruta que nos dirige a la vista welcome
 
-![route-welcome](images/route-welcome.PNG)
+![route-welcome](images/route-welcom.PNG)
 
 Modifique este archivo para incluir diferentes rutas, para esto cree una función get de la clase Route que acepta como parametros un subdiretorio seguido de '/' y las variables que el usuario pondrá en el URL entre '{}', después una función anónima que acepta estas variables, dentro de esta última se pueden realizar las operaciones que se desee. Este método no es el correcto para laravel, solo es un ejemplo de como pueden crearse más rutas.
 
