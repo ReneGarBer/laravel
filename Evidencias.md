@@ -43,7 +43,7 @@ Para ver la aplicación que fue creada accedemos a la carpeta public
 
 ![localhost-public](images/localhost-public.PNG)
 
-**Creación y manipulación de rutas**
+## Creación y manipulación de rutas
 
 Desde la carpeta routes dentro de nuestra aplicación, podemos encontrar el archivo web.php, en este archivo definiremos las rutas a las que el usuario puede acceder
 Las rutas nos permiten mantener partes de nuestra aplicación fuera del alcance de los usuarios y también permiten al usuario navegar por aquellas partes que estén permitidas.
