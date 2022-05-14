@@ -117,10 +117,10 @@ ubicado en la dirección 'C:\Windows\System32\drivers\etc'. Después de los debe
 
 **hosts**
 
-![hosts](images/hosts.PNG)
+![hosts](images/host.PNG)
 
 Después de reiniciar xampp podremos acceder a nuestra aplicacion escribiendo 'blog.test' en nuestro buscador.
 
-** URL -blog.test-**
+**URL -blog.test-**
 
 ![blog.test](images/blog-test.PNG)
