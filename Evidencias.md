@@ -29,4 +29,4 @@ Para ver la ubicación puede usar el comando php --ini
 
 Una vez abiero el archivo debe revisar que la linea extension=fileinfo no esté comentada, no tenga ';'.
 
-![php-fix](images/php-fix.PNG)
+![php-fix](images/laravel-fix.PNG)
