@@ -104,3 +104,23 @@ el archivo Math.blade.php' que funciona como un tamplate para nuestas vistas.
 **Math.blade.php**
 
 ![views-layout](images/views-layout.PNG)
+
+
+## Generar un dominio local con xampp
+
+Para generar un dominio local deben modificarse los archivos 'httpd-vhosts.conf', ubicado en la dirección 'C:\xampp\apache\conf\extra' y 'hosts', 
+ubicado en la dirección 'C:\Windows\System32\drivers\etc'. Después de los deben verse así
+
+**httpd-vhosts.conf**
+
+![vhosts](images/vhosts.PNG)
+
+**hosts**
+
+![hosts](images/hosts.PNG)
+
+Después de reiniciar xampp podremos acceder a nuestra aplicacion escribiendo 'blog.test' en nuestro buscador.
+
+** URL -blog.test-**
+
+![blog.test](images/blog-test.PNG)
