@@ -76,3 +76,7 @@ La forma correcta de hacer esto es usando controladores, podemos crear controlad
 con la instrucción 'php artisan make:controller BasicMathController'
 
 ![controller-math](images/controller-math.PNG)
+
+Esto puede simplificarse usando la función group
+
+![controller-group](images/controller-group.PNG)
