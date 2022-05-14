@@ -38,3 +38,8 @@ Después de esto deberíamos poder construir nuestra aplicación sin problemas
 Podemos ver los archivos creados desde el browser, para eso debemos iniciar Apache en xampp
 
 ![localhost-blog](images/localhost-blog.PNG)
+
+Para ver la aplicación que fue creada accedemos a la carpeta public
+
+![localhost-public](images/localhost-public.PNG)
+
