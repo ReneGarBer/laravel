@@ -124,3 +124,22 @@ Después de reiniciar xampp podremos acceder a nuestra aplicacion escribiendo 'b
 **URL -blog.test-**
 
 ![blog.test](images/blog-test.PNG)
+
+## Trabajando con bases de datos y migraciones
+
+Para trabajar con una base de datos primero tenemos que crearla, debemos acceder a phpmyadmin de nuestra aplicacion, dar click en Nueva y seguir los pasos indicados.
+Es importante recordar el nombre de la base de datos, y por razones de seguridad crear un usuario diferente al usuario por defecto y asignarle una contraseña segura
+
+**phpMyAdmin**
+
+![phpmyadmin](images/phpmyadmin.PNG)
+
+**Creación de tablas usando migraciones**
+
+Para este ejemplo usaremos las migraciones que crea laravel al crear el proyecto.
+
+![migraciones](images/migrations.PNG)
+
+Para crear las tablas usamos el comando 'php artisan migrate'
+
+![](images/.PNG)
