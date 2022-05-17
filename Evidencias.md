@@ -147,7 +147,7 @@ Para crear las tablas usamos el comando 'php artisan migrate'
 Si aparece el error anterior una posible solución es la siguiente. Ir al archivo C:\xampp\php\windowsXamppPhp\php.ini y asegurarse que la linea con 
 la extensión del pdo que corresponde a la base de datos usada. 
 
-![pdo-fix](images/pdo-mysql-fix.PNG)
+![pdo-mysql-fix](images/pdo-mysql-fix.PNG)
 
 Después de hacerlo las tablas pueden ser creadas
 
