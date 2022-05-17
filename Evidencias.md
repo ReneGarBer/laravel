@@ -142,4 +142,17 @@ Para este ejemplo usaremos las migraciones que crea laravel al crear el proyecto
 
 Para crear las tablas usamos el comando 'php artisan migrate'
 
-![](images/.PNG)
+![error-mysql](images/pdo-mysql-error.PNG)
+
+Si aparece el error anterior una posible solución es la siguiente. Ir al archivo C:\xampp\php\windowsXamppPhp\php.ini y asegurarse que la linea con 
+la extensión del pdo que corresponde a la base de datos usada. 
+
+![pdo-fix](images/pdo-mysql-fix.PNG)
+
+Después de hacerlo las tablas pueden ser creadas
+
+![migrate](images/migrate.PNG)
+
+**Base de datos después de crear las tablas**
+
+![db-with-tables](images/db-with-tables.PNG)
